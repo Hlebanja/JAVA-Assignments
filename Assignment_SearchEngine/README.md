@@ -1,7 +1,7 @@
 
 # README
 
-## FindWise - Simple Search Engine
+## Simple Search Engine
 
 ### Launching
 This is a simple application with no GUI. For launching, simply run the main task through your IDE.
